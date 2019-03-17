@@ -24,10 +24,3 @@ function sayHiToGrandma(string) {
   }
 }
 
-
-  }
-  }
-
-  }
-  }
-}
